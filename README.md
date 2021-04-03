@@ -1,2 +1,4 @@
 # student-yard
-This is after 1st commit
+Update everything here
+
+Project is created using expo
